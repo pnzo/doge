@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Doge.Model
 {
-    class ObservableBranch
+   public class ObservableBranch
     {
+        public string Name;
+        public BranchNumber BranchNumber;
+        public List<double> CurrentValues;
     }
 }

@@ -8,11 +8,11 @@ namespace Doge.Model
 {
     public class BranchNumber
     {
-        public int Ip;
-        public int Iq;
-        public int Np;
+        public int Ip { get; set; }
+        public int Iq { get; set; }
+        public int Np { get; set; }
 
-        public BranchNumber(int ip,int iq, int np)
+        public BranchNumber(int ip, int iq, int np)
         {
             Ip = ip;
             Iq = iq;

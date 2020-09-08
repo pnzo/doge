@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Doge.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+using System.IO;
 
 namespace Doge
 {
@@ -23,6 +27,13 @@ namespace Doge
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var g = new BranchNumber(30, 10, 23);
+            var jsonString = JsonSerializer.Serialize(g);
+            File.WriteAllText(@"D:\1.txt", jsonString, Encoding.Default);
         }
     }
 }
