@@ -31,7 +31,13 @@ namespace Doge
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            var g = new BranchNumber(30, 10, 23);
+            var g = new ObservableBranch();
+            g.Name = @"NAme11111";
+            g.BranchNumber = new BranchNumber(1, 2, 3);
+            g.CurrentValues = new List<double>
+            {
+                1231.23, 123213.43,4312431.4
+            };
             var jsonString = JsonSerializer.Serialize(g);
             File.WriteAllText(@"D:\1.txt", jsonString, Encoding.Default);
         }

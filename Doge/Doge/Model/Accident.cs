@@ -8,14 +8,14 @@ namespace Doge.Model
 {
     public class Accident
     {
-        public string Name;
-        public List<BranchNumber> OpenedBranchesNumbers;
-        public List<BranchNumber> ClosedBranchesNumbers;
-        public List<NodeNumber> OpenedNodesNumbers;
-        public List<NodeNumber> ClosedNodesNumbers;
-        public List<double> PowerValue;
-        public List<double> StepValue;
-        public List<ObservableBranch> ObservableBranches;
+        public string Name { get; set; }
+        public List<BranchNumber> OpenedBranchesNumbers { get; set; }
+        public List<BranchNumber> ClosedBranchesNumbers { get; set; }
+        public List<NodeNumber> OpenedNodesNumbers { get; set; }
+        public List<NodeNumber> ClosedNodesNumbers { get; set; }
+        public List<double> PowerValue { get; set; }
+        public List<double> StepValue { get; set; }
+        public List<ObservableBranch> ObservableBranches { get; set; }
 
     }
 }

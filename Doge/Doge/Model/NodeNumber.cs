@@ -8,7 +8,7 @@ namespace Doge.Model
 {
     public class NodeNumber
     {
-        public int Ny;
+        public int Ny { get; set; }
 
         public NodeNumber(int ny)
         {

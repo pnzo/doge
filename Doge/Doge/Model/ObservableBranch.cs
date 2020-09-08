@@ -8,8 +8,8 @@ namespace Doge.Model
 {
    public class ObservableBranch
     {
-        public string Name;
-        public BranchNumber BranchNumber;
-        public List<double> CurrentValues;
+        public string Name { get; set; }
+        public BranchNumber BranchNumber { get; set; }
+        public List<double> CurrentValues { get; set; }
     }
 }
