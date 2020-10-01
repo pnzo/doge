@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Doge.Model.Rastr;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,7 +10,7 @@ namespace Doge.Model
    public class ObservableBranch
     {
         public string Name { get; set; }
-        public BranchNumber BranchNumber { get; set; }
+        public BranchElement BranchNumber { get; set; }
         public List<double> CurrentValues { get; set; }
     }
 }

@@ -5,13 +5,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Doge.Model
+namespace Doge.Model.InitialData
 {
-    public class Repair
+    public class TaskRepair
     {
         public string Name { get; set; }
+        public string OptionsString { get; set; }
         public List<IRastrElement> SwitchedElements { get; set; }
-        public List<Accident> Accidents { get; set; }
-        public double DeltaP { get; set; }
+
+        public TaskRepair()
+        {
+            SwitchedElements = new List<IRastrElement>();
+        }
     }
 }

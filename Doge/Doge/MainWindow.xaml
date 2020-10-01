@@ -5,9 +5,51 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Doge"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="68,57,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        Title="MainWindow" Height="432.143" Width="576.19" AllowDrop="True" PreviewDragOver="Window_PreviewDragOver" PreviewDrop="Window_PreviewDrop">
+    <Window.Resources>
+        <local:PathConverter x:Key="pathConverter" />
+    </Window.Resources>
+    <Grid AllowDrop="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="33*"/>
+            <ColumnDefinition Width="109*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="37*"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="341*"/>
+        </Grid.RowDefinitions>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="335,162,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Grid.Row="6" Grid.Column="1" Height="0"/>
+        <TextBox 
+            Grid.Row="1" Grid.Column="1" VerticalContentAlignment="Center" BorderThickness="0" 
+            DataContext="{Binding InitialDataCreator}"
+            Text="{Binding Path=Rg2FileName, Converter={StaticResource pathConverter}}"/>
+        <TextBox 
+            Grid.Row="2" Grid.Column="1" VerticalContentAlignment="Center" BorderThickness="0" 
+            DataContext="{Binding InitialDataCreator}"
+            Text="{Binding Path=SchFileName, Converter={StaticResource pathConverter}}"/>
+        <TextBox 
+            Grid.Row="3" Grid.Column="1" VerticalContentAlignment="Center" BorderThickness="0" 
+            DataContext="{Binding InitialDataCreator}"
+            Text="{Binding Path=Ut2FileName, Converter={StaticResource pathConverter}}"/>
+        <TextBox 
+            Grid.Row="4" Grid.Column="1" VerticalContentAlignment="Center" BorderThickness="0" 
+            DataContext="{Binding InitialDataCreator}"
+            Text="{Binding Path=TaskFileName, Converter={StaticResource pathConverter}}"/>
+        <TextBox 
+            Grid.Row="5" Grid.Column="1" VerticalContentAlignment="Center" BorderThickness="0" 
+            DataContext="{Binding InitialDataCreator}"
+            Text="{Binding Path=CurrentsFileName, Converter={StaticResource pathConverter}}"/>
+        <TextBlock Text="Файл rg2" Grid.Row="1" TextAlignment="Center" VerticalAlignment="Center" Height="16"/>
+        <TextBlock Text="Файл sch" Grid.Row="2" TextAlignment="Center" VerticalAlignment="Center" Height="16"/>
+        <TextBlock Text="Файл ut2" Grid.Row="3" TextAlignment="Center" VerticalAlignment="Center" Height="16"/>
+        <TextBlock Text="Файл с заданием" Grid.Row="4" TextAlignment="Center" VerticalAlignment="Center" Height="16"/>
+        <TextBlock Text="Файл с токами" Grid.Row="5" TextAlignment="Center" VerticalAlignment="Center" Height="16" />
+        <Button Content="Button" Grid.Column="1" HorizontalAlignment="Left" Margin="98,77,0,0" Grid.Row="6" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
 
     </Grid>
 </Window>
