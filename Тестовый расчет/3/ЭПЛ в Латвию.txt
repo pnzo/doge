@@ -1,0 +1,2292 @@
+{
+  "ResultRepairs": [
+    {
+      "Name": "Ремонт ВЛ 330 кВ Айзкраукле - Саласпилс",
+      "ResultTemperatures": [
+        {
+          "TemperatureValue": -5,
+          "Pddtn": null,
+          "DDTN": null,
+          "CriteriaOfPddtn": null,
+          "Padtn": null,
+          "ADTN": null,
+          "CriteriaOfPadtn": null,
+          "MDP": 2221,
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Валмиера",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2465,
+              "P8": 2267,
+              "P8BeforeAccident": 2314
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2703,
+              "P8": 2486,
+              "P8BeforeAccident": 2434
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 2574,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Килинги-Нымме - Синди ",
+              "ADTN": 1800,
+              "Plimit": 2396,
+              "P8": 2204,
+              "P8BeforeAccident": 2251
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2507,
+              "P8": 2306,
+              "P8BeforeAccident": 2306
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2585,
+              "P8": 2378,
+              "P8BeforeAccident": 2340
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Резекне",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2178,
+              "P8": 2003,
+              "P8BeforeAccident": 2238
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Виру - Тсиргулийна - Валмиера",
+              "Padtn": 2501,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1768,
+              "Plimit": 2377,
+              "P8": 2186,
+              "P8BeforeAccident": 2229
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Игналинская АЭС - Ликсна",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2528,
+              "P8": 2325,
+              "P8BeforeAccident": 2351
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Килинги-Нымме - Рижская ТЭЦ-2",
+              "Padtn": 2379,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1768,
+              "Plimit": 2274,
+              "P8": 2092,
+              "P8BeforeAccident": 2221
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Кингисеппская - Псков",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2546,
+              "P8": 2342,
+              "P8BeforeAccident": 2321
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Пайде - Сопи",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2638,
+              "P8": 2426,
+              "P8BeforeAccident": 2406
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Паневежис - Айзкраукле",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2639,
+              "P8": 2427,
+              "P8BeforeAccident": 2431
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Полоцк - Новосокольники",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2757,
+              "P8": 2536,
+              "P8BeforeAccident": 2341
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Лужская",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2509,
+              "P8": 2308,
+              "P8BeforeAccident": 2329
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Тарту",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2645,
+              "P8": 2433,
+              "P8BeforeAccident": 2415
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Великорецкая",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2618,
+              "P8": 2408,
+              "P8BeforeAccident": 2367
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Новосокольники",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2858,
+              "P8": 2629,
+              "P8BeforeAccident": 2280
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Старорусская",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2566,
+              "P8": 2360,
+              "P8BeforeAccident": 2310
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Синди - Килинги-Нымме",
+              "Padtn": 2583,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1768,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2236
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Валмиера",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2240
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Килинги-Нымме",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2684,
+              "P8": 2469,
+              "P8BeforeAccident": 2425
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Харку - Синди",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2630,
+              "P8": 2419,
+              "P8BeforeAccident": 2394
+            },
+            {
+              "Name": "ПАР 1 СШ ПС 330 кВ Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2702,
+              "P8": 2485,
+              "P8BeforeAccident": 2435
+            },
+            {
+              "Name": "ПАР 2 СШ ПС 330 кВ Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2473,
+              "P8": 2275,
+              "P8BeforeAccident": 2284
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 0,
+          "Pddtn": null,
+          "DDTN": null,
+          "CriteriaOfPddtn": null,
+          "Padtn": null,
+          "ADTN": null,
+          "CriteriaOfPadtn": null,
+          "MDP": 2221,
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Валмиера",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2465,
+              "P8": 2267,
+              "P8BeforeAccident": 2314
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2703,
+              "P8": 2486,
+              "P8BeforeAccident": 2434
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 2574,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Килинги-Нымме - Синди ",
+              "ADTN": 1800,
+              "Plimit": 2396,
+              "P8": 2204,
+              "P8BeforeAccident": 2251
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2507,
+              "P8": 2306,
+              "P8BeforeAccident": 2306
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2585,
+              "P8": 2378,
+              "P8BeforeAccident": 2340
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Резекне",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2178,
+              "P8": 2003,
+              "P8BeforeAccident": 2238
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Виру - Тсиргулийна - Валмиера",
+              "Padtn": 2449,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1660,
+              "Plimit": 2377,
+              "P8": 2186,
+              "P8BeforeAccident": 2229
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Игналинская АЭС - Ликсна",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2528,
+              "P8": 2325,
+              "P8BeforeAccident": 2351
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Килинги-Нымме - Рижская ТЭЦ-2",
+              "Padtn": 2281,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1660,
+              "Plimit": 2274,
+              "P8": 2092,
+              "P8BeforeAccident": 2221
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Кингисеппская - Псков",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2546,
+              "P8": 2342,
+              "P8BeforeAccident": 2321
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Пайде - Сопи",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2638,
+              "P8": 2426,
+              "P8BeforeAccident": 2406
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Паневежис - Айзкраукле",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2639,
+              "P8": 2427,
+              "P8BeforeAccident": 2431
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Полоцк - Новосокольники",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2757,
+              "P8": 2536,
+              "P8BeforeAccident": 2341
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Лужская",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2509,
+              "P8": 2308,
+              "P8BeforeAccident": 2329
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Тарту",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2645,
+              "P8": 2433,
+              "P8BeforeAccident": 2415
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Великорецкая",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2618,
+              "P8": 2408,
+              "P8BeforeAccident": 2367
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Новосокольники",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2858,
+              "P8": 2629,
+              "P8BeforeAccident": 2280
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Старорусская",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2566,
+              "P8": 2360,
+              "P8BeforeAccident": 2310
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Синди - Килинги-Нымме",
+              "Padtn": 2583,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1768,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2236
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Валмиера",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2240
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Килинги-Нымме",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2684,
+              "P8": 2469,
+              "P8BeforeAccident": 2425
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Харку - Синди",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2630,
+              "P8": 2419,
+              "P8BeforeAccident": 2394
+            },
+            {
+              "Name": "ПАР 1 СШ ПС 330 кВ Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2702,
+              "P8": 2485,
+              "P8BeforeAccident": 2435
+            },
+            {
+              "Name": "ПАР 2 СШ ПС 330 кВ Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2473,
+              "P8": 2275,
+              "P8BeforeAccident": 2284
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 5,
+          "Pddtn": null,
+          "DDTN": null,
+          "CriteriaOfPddtn": null,
+          "Padtn": null,
+          "ADTN": null,
+          "CriteriaOfPadtn": null,
+          "MDP": 2169,
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Валмиера",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2465,
+              "P8": 2267,
+              "P8BeforeAccident": 2314
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2703,
+              "P8": 2486,
+              "P8BeforeAccident": 2434
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 2574,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Килинги-Нымме - Синди ",
+              "ADTN": 1800,
+              "Plimit": 2396,
+              "P8": 2204,
+              "P8BeforeAccident": 2251
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2507,
+              "P8": 2306,
+              "P8BeforeAccident": 2306
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2585,
+              "P8": 2378,
+              "P8BeforeAccident": 2340
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Резекне",
+              "Padtn": 2551,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1540,
+              "Plimit": 2178,
+              "P8": 2003,
+              "P8BeforeAccident": 2238
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Виру - Тсиргулийна - Валмиера",
+              "Padtn": 2314,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1540,
+              "Plimit": 2377,
+              "P8": 2186,
+              "P8BeforeAccident": 2229
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Игналинская АЭС - Ликсна",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2528,
+              "P8": 2325,
+              "P8BeforeAccident": 2351
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Килинги-Нымме - Рижская ТЭЦ-2",
+              "Padtn": 2169,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1540,
+              "Plimit": 2274,
+              "P8": 2092,
+              "P8BeforeAccident": 2221
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Кингисеппская - Псков",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2546,
+              "P8": 2342,
+              "P8BeforeAccident": 2321
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Пайде - Сопи",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2638,
+              "P8": 2426,
+              "P8BeforeAccident": 2406
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Паневежис - Айзкраукле",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2639,
+              "P8": 2427,
+              "P8BeforeAccident": 2431
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Полоцк - Новосокольники",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2757,
+              "P8": 2536,
+              "P8BeforeAccident": 2341
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Лужская",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2509,
+              "P8": 2308,
+              "P8BeforeAccident": 2329
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Тарту",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2645,
+              "P8": 2433,
+              "P8BeforeAccident": 2415
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Великорецкая",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2618,
+              "P8": 2408,
+              "P8BeforeAccident": 2367
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Новосокольники",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2858,
+              "P8": 2629,
+              "P8BeforeAccident": 2280
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Старорусская",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2566,
+              "P8": 2360,
+              "P8BeforeAccident": 2310
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Синди - Килинги-Нымме",
+              "Padtn": 2522,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1660,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2236
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Валмиера",
+              "Padtn": 2573,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 1660,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2240
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Килинги-Нымме",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2684,
+              "P8": 2469,
+              "P8BeforeAccident": 2425
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Харку - Синди",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2630,
+              "P8": 2419,
+              "P8BeforeAccident": 2394
+            },
+            {
+              "Name": "ПАР 1 СШ ПС 330 кВ Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2702,
+              "P8": 2485,
+              "P8BeforeAccident": 2435
+            },
+            {
+              "Name": "ПАР 2 СШ ПС 330 кВ Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2473,
+              "P8": 2275,
+              "P8BeforeAccident": 2284
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 10,
+          "Pddtn": 2594,
+          "DDTN": 1376,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 2594,
+          "ADTN": 1376,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "MDP": 1979,
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Валмиера",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2465,
+              "P8": 2267,
+              "P8BeforeAccident": 2314
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 2624,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2703,
+              "P8": 2486,
+              "P8BeforeAccident": 2434
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 2574,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Килинги-Нымме - Синди ",
+              "ADTN": 1800,
+              "Plimit": 2396,
+              "P8": 2204,
+              "P8BeforeAccident": 2251
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2507,
+              "P8": 2306,
+              "P8BeforeAccident": 2306
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 2553,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2585,
+              "P8": 2378,
+              "P8BeforeAccident": 2340
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Резекне",
+              "Padtn": 2454,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2178,
+              "P8": 2003,
+              "P8BeforeAccident": 2238
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Виру - Тсиргулийна - Валмиера",
+              "Padtn": 2116,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2377,
+              "P8": 2186,
+              "P8BeforeAccident": 2229
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Игналинская АЭС - Ликсна",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2528,
+              "P8": 2325,
+              "P8BeforeAccident": 2351
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Килинги-Нымме - Рижская ТЭЦ-2",
+              "Padtn": 1979,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2274,
+              "P8": 2092,
+              "P8BeforeAccident": 2221
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Кингисеппская - Псков",
+              "Padtn": 2647,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1540,
+              "Plimit": 2546,
+              "P8": 2342,
+              "P8BeforeAccident": 2321
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Пайде - Сопи",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2638,
+              "P8": 2426,
+              "P8BeforeAccident": 2406
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Паневежис - Айзкраукле",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2639,
+              "P8": 2427,
+              "P8BeforeAccident": 2431
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Полоцк - Новосокольники",
+              "Padtn": 2605,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2757,
+              "P8": 2536,
+              "P8BeforeAccident": 2341
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Лужская",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2509,
+              "P8": 2308,
+              "P8BeforeAccident": 2329
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Тарту",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2645,
+              "P8": 2433,
+              "P8BeforeAccident": 2415
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Великорецкая",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2618,
+              "P8": 2408,
+              "P8BeforeAccident": 2367
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Новосокольники",
+              "Padtn": 2533,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2858,
+              "P8": 2629,
+              "P8BeforeAccident": 2280
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Старорусская",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2566,
+              "P8": 2360,
+              "P8BeforeAccident": 2310
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Синди - Килинги-Нымме",
+              "Padtn": 2454,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1540,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2236
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Валмиера",
+              "Padtn": 2506,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 1540,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2240
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Килинги-Нымме",
+              "Padtn": 2623,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2684,
+              "P8": 2469,
+              "P8BeforeAccident": 2425
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Харку - Синди",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2630,
+              "P8": 2419,
+              "P8BeforeAccident": 2394
+            },
+            {
+              "Name": "ПАР 1 СШ ПС 330 кВ Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2702,
+              "P8": 2485,
+              "P8BeforeAccident": 2435
+            },
+            {
+              "Name": "ПАР 2 СШ ПС 330 кВ Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2473,
+              "P8": 2275,
+              "P8BeforeAccident": 2284
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 15,
+          "Pddtn": 2540,
+          "DDTN": 1184,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 2540,
+          "ADTN": 1184,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "MDP": 1742,
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Валмиера",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2465,
+              "P8": 2267,
+              "P8BeforeAccident": 2314
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 2516,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2703,
+              "P8": 2486,
+              "P8BeforeAccident": 2434
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 2484,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 1376,
+              "Plimit": 2396,
+              "P8": 2204,
+              "P8BeforeAccident": 2251
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2507,
+              "P8": 2306,
+              "P8BeforeAccident": 2306
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 2359,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2585,
+              "P8": 2378,
+              "P8BeforeAccident": 2340
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Резекне",
+              "Padtn": 2188,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2178,
+              "P8": 2003,
+              "P8BeforeAccident": 2238
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Виру - Тсиргулийна - Валмиера",
+              "Padtn": 1845,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2377,
+              "P8": 2186,
+              "P8BeforeAccident": 2229
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Игналинская АЭС - Ликсна",
+              "Padtn": 2520,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2528,
+              "P8": 2325,
+              "P8BeforeAccident": 2351
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Килинги-Нымме - Рижская ТЭЦ-2",
+              "Padtn": 1742,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2274,
+              "P8": 2092,
+              "P8BeforeAccident": 2221
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Кингисеппская - Псков",
+              "Padtn": 2514,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1376,
+              "Plimit": 2546,
+              "P8": 2342,
+              "P8BeforeAccident": 2321
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Пайде - Сопи",
+              "Padtn": 2536,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2638,
+              "P8": 2426,
+              "P8BeforeAccident": 2406
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Паневежис - Айзкраукле",
+              "Padtn": 2618,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2639,
+              "P8": 2427,
+              "P8BeforeAccident": 2431
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Полоцк - Новосокольники",
+              "Padtn": 2460,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2757,
+              "P8": 2536,
+              "P8BeforeAccident": 2341
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Лужская",
+              "Padtn": 2529,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1376,
+              "Plimit": 2509,
+              "P8": 2308,
+              "P8BeforeAccident": 2329
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Тарту",
+              "Padtn": 2548,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1376,
+              "Plimit": 2645,
+              "P8": 2433,
+              "P8BeforeAccident": 2415
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Великорецкая",
+              "Padtn": 2517,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2618,
+              "P8": 2408,
+              "P8BeforeAccident": 2367
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Новосокольники",
+              "Padtn": 2342,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2858,
+              "P8": 2629,
+              "P8BeforeAccident": 2280
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Старорусская",
+              "Padtn": 2499,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2566,
+              "P8": 2360,
+              "P8BeforeAccident": 2310
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Синди - Килинги-Нымме",
+              "Padtn": 2212,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1376,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2236
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Валмиера",
+              "Padtn": 2350,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 1376,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2240
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Килинги-Нымме",
+              "Padtn": 2445,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2684,
+              "P8": 2469,
+              "P8BeforeAccident": 2425
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Харку - Синди",
+              "Padtn": 2529,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2630,
+              "P8": 2419,
+              "P8BeforeAccident": 2394
+            },
+            {
+              "Name": "ПАР 1 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 2544,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2702,
+              "P8": 2485,
+              "P8BeforeAccident": 2435
+            },
+            {
+              "Name": "ПАР 2 СШ ПС 330 кВ Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 2473,
+              "P8": 2275,
+              "P8BeforeAccident": 2284
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 20,
+          "Pddtn": 2189,
+          "DDTN": 954,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 2189,
+          "ADTN": 954,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "MDP": 1437,
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Валмиера",
+              "Padtn": 2519,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2465,
+              "P8": 2267,
+              "P8BeforeAccident": 2314
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 2168,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2703,
+              "P8": 2486,
+              "P8BeforeAccident": 2434
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 2211,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 1184,
+              "Plimit": 2396,
+              "P8": 2204,
+              "P8BeforeAccident": 2251
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": 2508,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1184,
+              "Plimit": 2507,
+              "P8": 2306,
+              "P8BeforeAccident": 2306
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 1951,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2585,
+              "P8": 2378,
+              "P8BeforeAccident": 2340
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Резекне",
+              "Padtn": 1798,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2178,
+              "P8": 2003,
+              "P8BeforeAccident": 2238
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Виру - Тсиргулийна - Валмиера",
+              "Padtn": 1487,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2377,
+              "P8": 2186,
+              "P8BeforeAccident": 2229
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Игналинская АЭС - Ликсна",
+              "Padtn": 2177,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2528,
+              "P8": 2325,
+              "P8BeforeAccident": 2351
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Килинги-Нымме - Рижская ТЭЦ-2",
+              "Padtn": 1437,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2274,
+              "P8": 2092,
+              "P8BeforeAccident": 2221
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Кингисеппская - Псков",
+              "Padtn": 2206,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2546,
+              "P8": 2342,
+              "P8BeforeAccident": 2321
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Пайде - Сопи",
+              "Padtn": 2198,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2638,
+              "P8": 2426,
+              "P8BeforeAccident": 2406
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Паневежис - Айзкраукле",
+              "Padtn": 2311,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2639,
+              "P8": 2427,
+              "P8BeforeAccident": 2431
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Полоцк - Новосокольники",
+              "Padtn": 2074,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2757,
+              "P8": 2536,
+              "P8BeforeAccident": 2341
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Лужская",
+              "Padtn": 2249,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2509,
+              "P8": 2308,
+              "P8BeforeAccident": 2329
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Тарту",
+              "Padtn": 2272,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1184,
+              "Plimit": 2645,
+              "P8": 2433,
+              "P8BeforeAccident": 2415
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Великорецкая",
+              "Padtn": 2171,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2618,
+              "P8": 2408,
+              "P8BeforeAccident": 2367
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Новосокольники",
+              "Padtn": 1948,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2858,
+              "P8": 2629,
+              "P8BeforeAccident": 2280
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Старорусская",
+              "Padtn": 2163,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2566,
+              "P8": 2360,
+              "P8BeforeAccident": 2310
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Синди - Килинги-Нымме",
+              "Padtn": 1876,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1184,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2236
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Валмиера",
+              "Padtn": 2038,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 1184,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2240
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Килинги-Нымме",
+              "Padtn": 2047,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2684,
+              "P8": 2469,
+              "P8BeforeAccident": 2425
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Харку - Синди",
+              "Padtn": 2190,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2630,
+              "P8": 2419,
+              "P8BeforeAccident": 2394
+            },
+            {
+              "Name": "ПАР 1 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 2195,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2702,
+              "P8": 2485,
+              "P8BeforeAccident": 2435
+            },
+            {
+              "Name": "ПАР 2 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 2510,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 1184,
+              "Plimit": 2473,
+              "P8": 2275,
+              "P8BeforeAccident": 2284
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 25,
+          "Pddtn": 1686,
+          "DDTN": 716,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 1686,
+          "ADTN": 716,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "MDP": 1091,
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Валмиера",
+              "Padtn": 2066,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2465,
+              "P8": 2267,
+              "P8BeforeAccident": 2314
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1683,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2703,
+              "P8": 2486,
+              "P8BeforeAccident": 2434
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 1718,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 954,
+              "Plimit": 2396,
+              "P8": 2204,
+              "P8BeforeAccident": 2251
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": 2059,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 954,
+              "Plimit": 2507,
+              "P8": 2306,
+              "P8BeforeAccident": 2306
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 1470,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2585,
+              "P8": 2378,
+              "P8BeforeAccident": 2340
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Резекне",
+              "Padtn": 1360,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2178,
+              "P8": 2003,
+              "P8BeforeAccident": 2238
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Виру - Тсиргулийна - Валмиера",
+              "Padtn": 1091,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2377,
+              "P8": 2186,
+              "P8BeforeAccident": 2229
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Игналинская АЭС - Ликсна",
+              "Padtn": 1681,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2528,
+              "P8": 2325,
+              "P8BeforeAccident": 2351
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Килинги-Нымме - Рижская ТЭЦ-2",
+              "Padtn": 1104,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2274,
+              "P8": 2092,
+              "P8BeforeAccident": 2221
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Кингисеппская - Псков",
+              "Padtn": 1667,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 954,
+              "Plimit": 2546,
+              "P8": 2342,
+              "P8BeforeAccident": 2321
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Пайде - Сопи",
+              "Padtn": 1699,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2638,
+              "P8": 2426,
+              "P8BeforeAccident": 2406
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Паневежис - Айзкраукле",
+              "Padtn": 1807,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2639,
+              "P8": 2427,
+              "P8BeforeAccident": 2431
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Полоцк - Новосокольники",
+              "Padtn": 1597,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2757,
+              "P8": 2536,
+              "P8BeforeAccident": 2341
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Лужская",
+              "Padtn": 1722,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 954,
+              "Plimit": 2509,
+              "P8": 2308,
+              "P8BeforeAccident": 2329
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Тарту",
+              "Padtn": 1764,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 954,
+              "Plimit": 2645,
+              "P8": 2433,
+              "P8BeforeAccident": 2415
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Великорецкая",
+              "Padtn": 1665,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2618,
+              "P8": 2408,
+              "P8BeforeAccident": 2367
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Новосокольники",
+              "Padtn": 1468,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2858,
+              "P8": 2629,
+              "P8BeforeAccident": 2280
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Старорусская",
+              "Padtn": 1667,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2566,
+              "P8": 2360,
+              "P8BeforeAccident": 2310
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Синди - Килинги-Нымме",
+              "Padtn": 1412,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 954,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2236
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Валмиера",
+              "Padtn": 1593,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 954,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2240
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Килинги-Нымме",
+              "Padtn": 1581,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2684,
+              "P8": 2469,
+              "P8BeforeAccident": 2425
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Харку - Синди",
+              "Padtn": 1689,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2630,
+              "P8": 2419,
+              "P8BeforeAccident": 2394
+            },
+            {
+              "Name": "ПАР 1 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 1691,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2702,
+              "P8": 2485,
+              "P8BeforeAccident": 2435
+            },
+            {
+              "Name": "ПАР 2 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 2066,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 954,
+              "Plimit": 2473,
+              "P8": 2275,
+              "P8BeforeAccident": 2284
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 30,
+          "Pddtn": 1299,
+          "DDTN": 716,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Балти - Тарту",
+          "Padtn": 1299,
+          "ADTN": 716,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+          "MDP": 873,
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Валмиера",
+              "Padtn": 1387,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2465,
+              "P8": 2267,
+              "P8BeforeAccident": 2314
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1302,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2703,
+              "P8": 2486,
+              "P8BeforeAccident": 2434
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 1135,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 2396,
+              "P8": 2204,
+              "P8BeforeAccident": 2251
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": 1341,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2507,
+              "P8": 2306,
+              "P8BeforeAccident": 2306
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 1348,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2585,
+              "P8": 2378,
+              "P8BeforeAccident": 2340
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Резекне",
+              "Padtn": 1280,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 2178,
+              "P8": 2003,
+              "P8BeforeAccident": 2238
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Виру - Тсиргулийна - Валмиера",
+              "Padtn": 873,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2377,
+              "P8": 2186,
+              "P8BeforeAccident": 2229
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Игналинская АЭС - Ликсна",
+              "Padtn": 1318,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2528,
+              "P8": 2325,
+              "P8BeforeAccident": 2351
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Килинги-Нымме - Рижская ТЭЦ-2",
+              "Padtn": 1104,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2274,
+              "P8": 2092,
+              "P8BeforeAccident": 2221
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Кингисеппская - Псков",
+              "Padtn": 1003,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2546,
+              "P8": 2342,
+              "P8BeforeAccident": 2321
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Пайде - Сопи",
+              "Padtn": 1159,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2638,
+              "P8": 2426,
+              "P8BeforeAccident": 2406
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Паневежис - Айзкраукле",
+              "Padtn": 1333,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2639,
+              "P8": 2427,
+              "P8BeforeAccident": 2431
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Полоцк - Новосокольники",
+              "Padtn": 1283,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2757,
+              "P8": 2536,
+              "P8BeforeAccident": 2341
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Лужская",
+              "Padtn": 1092,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2509,
+              "P8": 2308,
+              "P8BeforeAccident": 2329
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Тарту",
+              "Padtn": 1174,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2645,
+              "P8": 2433,
+              "P8BeforeAccident": 2415
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Великорецкая",
+              "Padtn": 1317,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2618,
+              "P8": 2408,
+              "P8BeforeAccident": 2367
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Новосокольники",
+              "Padtn": 1280,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2858,
+              "P8": 2629,
+              "P8BeforeAccident": 2280
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Старорусская",
+              "Padtn": 1184,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2566,
+              "P8": 2360,
+              "P8BeforeAccident": 2310
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Синди - Килинги-Нымме",
+              "Padtn": 890,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2236
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Валмиера",
+              "Padtn": 1088,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2240
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Килинги-Нымме",
+              "Padtn": 1412,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2684,
+              "P8": 2469,
+              "P8BeforeAccident": 2425
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Харку - Синди",
+              "Padtn": 1200,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2630,
+              "P8": 2419,
+              "P8BeforeAccident": 2394
+            },
+            {
+              "Name": "ПАР 1 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 1300,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2702,
+              "P8": 2485,
+              "P8BeforeAccident": 2435
+            },
+            {
+              "Name": "ПАР 2 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 1346,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2473,
+              "P8": 2275,
+              "P8BeforeAccident": 2284
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 35,
+          "Pddtn": 1299,
+          "DDTN": 716,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Балти - Тарту",
+          "Padtn": 1299,
+          "ADTN": 716,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+          "MDP": 873,
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Валмиера",
+              "Padtn": 1387,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2465,
+              "P8": 2267,
+              "P8BeforeAccident": 2314
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1302,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2703,
+              "P8": 2486,
+              "P8BeforeAccident": 2434
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 1135,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 2396,
+              "P8": 2204,
+              "P8BeforeAccident": 2251
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": 1341,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2507,
+              "P8": 2306,
+              "P8BeforeAccident": 2306
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 1348,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2585,
+              "P8": 2378,
+              "P8BeforeAccident": 2340
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Резекне",
+              "Padtn": 1280,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 2178,
+              "P8": 2003,
+              "P8BeforeAccident": 2238
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Виру - Тсиргулийна - Валмиера",
+              "Padtn": 873,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2377,
+              "P8": 2186,
+              "P8BeforeAccident": 2229
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Игналинская АЭС - Ликсна",
+              "Padtn": 1318,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2528,
+              "P8": 2325,
+              "P8BeforeAccident": 2351
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Килинги-Нымме - Рижская ТЭЦ-2",
+              "Padtn": 1104,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2274,
+              "P8": 2092,
+              "P8BeforeAccident": 2221
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Кингисеппская - Псков",
+              "Padtn": 1003,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2546,
+              "P8": 2342,
+              "P8BeforeAccident": 2321
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Пайде - Сопи",
+              "Padtn": 1159,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2638,
+              "P8": 2426,
+              "P8BeforeAccident": 2406
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Паневежис - Айзкраукле",
+              "Padtn": 1333,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2639,
+              "P8": 2427,
+              "P8BeforeAccident": 2431
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Полоцк - Новосокольники",
+              "Padtn": 1283,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2757,
+              "P8": 2536,
+              "P8BeforeAccident": 2341
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Лужская",
+              "Padtn": 1092,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2509,
+              "P8": 2308,
+              "P8BeforeAccident": 2329
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Тарту",
+              "Padtn": 1174,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2645,
+              "P8": 2433,
+              "P8BeforeAccident": 2415
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Великорецкая",
+              "Padtn": 1317,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2618,
+              "P8": 2408,
+              "P8BeforeAccident": 2367
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Новосокольники",
+              "Padtn": 1280,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2858,
+              "P8": 2629,
+              "P8BeforeAccident": 2280
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Старорусская",
+              "Padtn": 1184,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2566,
+              "P8": 2360,
+              "P8BeforeAccident": 2310
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Синди - Килинги-Нымме",
+              "Padtn": 890,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2236
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Валмиера",
+              "Padtn": 1088,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2240
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Килинги-Нымме",
+              "Padtn": 1412,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2684,
+              "P8": 2469,
+              "P8BeforeAccident": 2425
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Харку - Синди",
+              "Padtn": 1200,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2630,
+              "P8": 2419,
+              "P8BeforeAccident": 2394
+            },
+            {
+              "Name": "ПАР 1 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 1300,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2702,
+              "P8": 2485,
+              "P8BeforeAccident": 2435
+            },
+            {
+              "Name": "ПАР 2 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 1346,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2473,
+              "P8": 2275,
+              "P8BeforeAccident": 2284
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 40,
+          "Pddtn": 1299,
+          "DDTN": 716,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Балти - Тарту",
+          "Padtn": 1299,
+          "ADTN": 716,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+          "MDP": 873,
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Валмиера",
+              "Padtn": 1387,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2465,
+              "P8": 2267,
+              "P8BeforeAccident": 2314
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1302,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2703,
+              "P8": 2486,
+              "P8BeforeAccident": 2434
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 1135,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 2396,
+              "P8": 2204,
+              "P8BeforeAccident": 2251
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": 1341,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2507,
+              "P8": 2306,
+              "P8BeforeAccident": 2306
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 1348,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2585,
+              "P8": 2378,
+              "P8BeforeAccident": 2340
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Резекне",
+              "Padtn": 1280,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 2178,
+              "P8": 2003,
+              "P8BeforeAccident": 2238
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Виру - Тсиргулийна - Валмиера",
+              "Padtn": 873,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2377,
+              "P8": 2186,
+              "P8BeforeAccident": 2229
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Игналинская АЭС - Ликсна",
+              "Padtn": 1318,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2528,
+              "P8": 2325,
+              "P8BeforeAccident": 2351
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Килинги-Нымме - Рижская ТЭЦ-2",
+              "Padtn": 1104,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2274,
+              "P8": 2092,
+              "P8BeforeAccident": 2221
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Кингисеппская - Псков",
+              "Padtn": 1003,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2546,
+              "P8": 2342,
+              "P8BeforeAccident": 2321
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Пайде - Сопи",
+              "Padtn": 1159,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2638,
+              "P8": 2426,
+              "P8BeforeAccident": 2406
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Паневежис - Айзкраукле",
+              "Padtn": 1333,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2639,
+              "P8": 2427,
+              "P8BeforeAccident": 2431
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Полоцк - Новосокольники",
+              "Padtn": 1283,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2757,
+              "P8": 2536,
+              "P8BeforeAccident": 2341
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Лужская",
+              "Padtn": 1092,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2509,
+              "P8": 2308,
+              "P8BeforeAccident": 2329
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псков - Тарту",
+              "Padtn": 1174,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2645,
+              "P8": 2433,
+              "P8BeforeAccident": 2415
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Великорецкая",
+              "Padtn": 1317,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2618,
+              "P8": 2408,
+              "P8BeforeAccident": 2367
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Новосокольники",
+              "Padtn": 1280,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2858,
+              "P8": 2629,
+              "P8BeforeAccident": 2280
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Псковская ГРЭС - Старорусская",
+              "Padtn": 1184,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2566,
+              "P8": 2360,
+              "P8BeforeAccident": 2310
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Синди - Килинги-Нымме",
+              "Padtn": 890,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2236
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Валмиера",
+              "Padtn": 1088,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 2357,
+              "P8": 2168,
+              "P8BeforeAccident": 2240
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Тарту - Килинги-Нымме",
+              "Padtn": 1412,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2684,
+              "P8": 2469,
+              "P8BeforeAccident": 2425
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Харку - Синди",
+              "Padtn": 1200,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2630,
+              "P8": 2419,
+              "P8BeforeAccident": 2394
+            },
+            {
+              "Name": "ПАР 1 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 1300,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2702,
+              "P8": 2485,
+              "P8BeforeAccident": 2435
+            },
+            {
+              "Name": "ПАР 2 СШ ПС 330 кВ Саласпилс",
+              "Padtn": 1346,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 2473,
+              "P8": 2275,
+              "P8BeforeAccident": 2284
+            }
+          ]
+        }
+      ],
+      "Plimit": 2705,
+      "P8": 2488,
+      "P20": 2114
+    }
+  ]
+}

@@ -35,11 +35,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EPPlus, Version=5.3.2.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
-      <HintPath>..\packages\EPPlus.5.3.2\lib\net45\EPPlus.dll</HintPath>
+    <Reference Include="EPPlus, Version=5.4.0.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.5.4.0\lib\net45\EPPlus.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.1.1.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.1.1.1\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
@@ -108,17 +108,22 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\Accident.cs" />
-    <Compile Include="Model\Rastr\BranchElement.cs" />
+    <Compile Include="Model\Calculation\Accident.cs" />
+    <Compile Include="Model\Calculation\Calculator.cs" />
+    <Compile Include="Model\Calculation\Overload.cs" />
     <Compile Include="Model\InitialData\InitialDataCreator.cs" />
     <Compile Include="Model\InitialData\TaskAccident.cs" />
     <Compile Include="Model\InitialData\TaskRepair.cs" />
-    <Compile Include="Model\Rastr\BranchElementWithCurrentLimits.cs" />
-    <Compile Include="Model\Rastr\CurrentLimit.cs" />
-    <Compile Include="Model\Rastr\NodeElement.cs" />
-    <Compile Include="Model\ObservableBranch.cs" />
-    <Compile Include="Model\Rastr\RastrElement.cs" />
-    <Compile Include="Model\Repair.cs" />
+    <Compile Include="Model\RastrPart\BranchElementWithCurrentLimits.cs" />
+    <Compile Include="Model\RastrPart\CurrentLimit.cs" />
+    <Compile Include="Model\Calculation\ObservableBranch.cs" />
+    <Compile Include="Model\RastrPart\RastrElement.cs" />
+    <Compile Include="Model\RastrPart\RastrOperations.cs" />
+    <Compile Include="Model\Calculation\Repair.cs" />
+    <Compile Include="Model\Result\Result.cs" />
+    <Compile Include="Model\Result\ResultAccident.cs" />
+    <Compile Include="Model\Result\ResultRepair.cs" />
+    <Compile Include="Model\Result\ResultTemperature.cs" />
     <Compile Include="PathConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
@@ -146,6 +151,16 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <COMReference Include="ASTRALib">
+      <Guid>{84B05080-ABC9-11D3-B740-00500454CF3F}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

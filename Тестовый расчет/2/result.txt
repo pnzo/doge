@@ -1,0 +1,572 @@
+{
+  "ResultRepairs": [
+    {
+      "Name": "Ремонт ВЛ 330 кВ Айзкраукле - Валмиера",
+      "ResultTemperatures": [
+        {
+          "TemperatureValue": -5,
+          "Pddtn": 2055,
+          "DDTN": 1768,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 2055,
+          "ADTN": 1768,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 2085,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1768,
+              "Plimit": 2135,
+              "P8": 1964,
+              "P8BeforeAccident": 1909
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Саласпилс",
+              "Padtn": 2071,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1768,
+              "Plimit": 2141,
+              "P8": 1969,
+              "P8BeforeAccident": 1912
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 1995,
+              "P8": 1835,
+              "P8BeforeAccident": 1868
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 1348,
+              "P8": 1240,
+              "P8BeforeAccident": 1646
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 2006,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1768,
+              "Plimit": 2036,
+              "P8": 1873,
+              "P8BeforeAccident": 1877
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 0,
+          "Pddtn": 2082,
+          "DDTN": 1660,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 2082,
+          "ADTN": 1660,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 2047,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1660,
+              "Plimit": 2135,
+              "P8": 1964,
+              "P8BeforeAccident": 1909
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Саласпилс",
+              "Padtn": 2082,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1660,
+              "Plimit": 2141,
+              "P8": 1969,
+              "P8BeforeAccident": 1912
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 1995,
+              "P8": 1835,
+              "P8BeforeAccident": 1868
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 1348,
+              "P8": 1240,
+              "P8BeforeAccident": 1646
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 1948,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1660,
+              "Plimit": 2036,
+              "P8": 1873,
+              "P8BeforeAccident": 1877
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 5,
+          "Pddtn": 2034,
+          "DDTN": 1540,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 2034,
+          "ADTN": 1540,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1975,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1540,
+              "Plimit": 2135,
+              "P8": 1964,
+              "P8BeforeAccident": 1909
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Саласпилс",
+              "Padtn": 2007,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1540,
+              "Plimit": 2141,
+              "P8": 1969,
+              "P8BeforeAccident": 1912
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 1995,
+              "P8": 1835,
+              "P8BeforeAccident": 1868
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 1348,
+              "P8": 1240,
+              "P8BeforeAccident": 1646
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 1865,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1540,
+              "Plimit": 2036,
+              "P8": 1873,
+              "P8BeforeAccident": 1877
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 10,
+          "Pddtn": 1920,
+          "DDTN": 1376,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 1920,
+          "ADTN": 1376,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1856,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2135,
+              "P8": 1964,
+              "P8BeforeAccident": 1909
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Саласпилс",
+              "Padtn": 1904,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2141,
+              "P8": 1969,
+              "P8BeforeAccident": 1912
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 2062,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 1540,
+              "Plimit": 1995,
+              "P8": 1835,
+              "P8BeforeAccident": 1868
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 1348,
+              "P8": 1240,
+              "P8BeforeAccident": 1646
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 1709,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1376,
+              "Plimit": 2036,
+              "P8": 1873,
+              "P8BeforeAccident": 1877
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 15,
+          "Pddtn": 1717,
+          "DDTN": 1184,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 1717,
+          "ADTN": 1184,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1661,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2135,
+              "P8": 1964,
+              "P8BeforeAccident": 1909
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Саласпилс",
+              "Padtn": 1707,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2141,
+              "P8": 1969,
+              "P8BeforeAccident": 1912
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 1942,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 1376,
+              "Plimit": 1995,
+              "P8": 1835,
+              "P8BeforeAccident": 1868
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 1348,
+              "P8": 1240,
+              "P8BeforeAccident": 1646
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 1505,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 1184,
+              "Plimit": 2036,
+              "P8": 1873,
+              "P8BeforeAccident": 1877
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 20,
+          "Pddtn": 1436,
+          "DDTN": 954,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 1436,
+          "ADTN": 954,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1391,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2135,
+              "P8": 1964,
+              "P8BeforeAccident": 1909
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Саласпилс",
+              "Padtn": 1442,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2141,
+              "P8": 1969,
+              "P8BeforeAccident": 1912
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 1699,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 1995,
+              "P8": 1835,
+              "P8BeforeAccident": 1868
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": null,
+              "CriteriaOfPadtn": null,
+              "ADTN": null,
+              "Plimit": 1348,
+              "P8": 1240,
+              "P8BeforeAccident": 1646
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 1237,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 954,
+              "Plimit": 2036,
+              "P8": 1873,
+              "P8BeforeAccident": 1877
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 25,
+          "Pddtn": 1110,
+          "DDTN": 716,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 1110,
+          "ADTN": 716,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1084,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2135,
+              "P8": 1964,
+              "P8BeforeAccident": 1909
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Саласпилс",
+              "Padtn": 1137,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2141,
+              "P8": 1969,
+              "P8BeforeAccident": 1912
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 1355,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 954,
+              "Plimit": 1995,
+              "P8": 1835,
+              "P8BeforeAccident": 1868
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": 1858,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Псков - Тарту",
+              "ADTN": 612,
+              "Plimit": 1348,
+              "P8": 1240,
+              "P8BeforeAccident": 1646
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 938,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2036,
+              "P8": 1873,
+              "P8BeforeAccident": 1877
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 30,
+          "Pddtn": 1110,
+          "DDTN": 716,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 1110,
+          "ADTN": 716,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1084,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2135,
+              "P8": 1964,
+              "P8BeforeAccident": 1909
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Саласпилс",
+              "Padtn": 1137,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2141,
+              "P8": 1969,
+              "P8BeforeAccident": 1912
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 906,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 1995,
+              "P8": 1835,
+              "P8BeforeAccident": 1868
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": 1650,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 1348,
+              "P8": 1240,
+              "P8BeforeAccident": 1646
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 938,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2036,
+              "P8": 1873,
+              "P8BeforeAccident": 1877
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 35,
+          "Pddtn": 1110,
+          "DDTN": 716,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 1110,
+          "ADTN": 716,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1084,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2135,
+              "P8": 1964,
+              "P8BeforeAccident": 1909
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Саласпилс",
+              "Padtn": 1137,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2141,
+              "P8": 1969,
+              "P8BeforeAccident": 1912
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 906,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 1995,
+              "P8": 1835,
+              "P8BeforeAccident": 1868
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": 1650,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 1348,
+              "P8": 1240,
+              "P8BeforeAccident": 1646
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 938,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2036,
+              "P8": 1873,
+              "P8BeforeAccident": 1877
+            }
+          ]
+        },
+        {
+          "TemperatureValue": 40,
+          "Pddtn": 1110,
+          "DDTN": 716,
+          "CriteriaOfPddtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "Padtn": 1110,
+          "ADTN": 716,
+          "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+          "ResultAccidents": [
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Крустпилс",
+              "Padtn": 1084,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2135,
+              "P8": 1964,
+              "P8BeforeAccident": 1909
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Айзкраукле - Саласпилс",
+              "Padtn": 1137,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2141,
+              "P8": 1969,
+              "P8BeforeAccident": 1912
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Балти - Тарту",
+              "Padtn": 906,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Виру - Тсиргулийна",
+              "ADTN": 716,
+              "Plimit": 1995,
+              "P8": 1835,
+              "P8BeforeAccident": 1868
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Валмиера - Саласпилс",
+              "Padtn": 1650,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Балти - Тарту",
+              "ADTN": 716,
+              "Plimit": 1348,
+              "P8": 1240,
+              "P8BeforeAccident": 1646
+            },
+            {
+              "Name": "ПАР ВЛ 330 кВ Великорецкая - Псков",
+              "Padtn": 938,
+              "CriteriaOfPadtn": "ВЛ 330 кВ Тарту - Валмиера",
+              "ADTN": 716,
+              "Plimit": 2036,
+              "P8": 1873,
+              "P8BeforeAccident": 1877
+            }
+          ]
+        }
+      ],
+      "Plimit": 2141,
+      "P8": 1969,
+      "P20": 1662
+    }
+  ]
+}

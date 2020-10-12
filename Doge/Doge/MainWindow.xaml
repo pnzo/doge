@@ -49,7 +49,11 @@
         <TextBlock Text="Файл ut2" Grid.Row="3" TextAlignment="Center" VerticalAlignment="Center" Height="16"/>
         <TextBlock Text="Файл с заданием" Grid.Row="4" TextAlignment="Center" VerticalAlignment="Center" Height="16"/>
         <TextBlock Text="Файл с токами" Grid.Row="5" TextAlignment="Center" VerticalAlignment="Center" Height="16" />
-        <Button Content="Button" Grid.Column="1" HorizontalAlignment="Left" Margin="98,77,0,0" Grid.Row="6" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
-
+        <Button Content="Расчет" Grid.Column="1" HorizontalAlignment="Left" Margin="74,10,0,0" Grid.Row="6" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="Результат" Grid.Column="1" HorizontalAlignment="Left" Margin="74,47,0,0" Grid.Row="6" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <ProgressBar HorizontalAlignment="Left" Height="45" Margin="22,88,0,0" Grid.Row="6" VerticalAlignment="Top" Width="445" Grid.ColumnSpan="2" Name="ProgressBar"/>
+        <TextBlock HorizontalAlignment="Left" Margin="84,162,0,0" Grid.Row="6" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Grid.Column="1" Width="186" Name="TB1"/>
+        <Button Content="Button" Grid.Column="1" HorizontalAlignment="Left" Margin="221,5,0,0" Grid.Row="6" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+        <Button Content="Проверка" Grid.Column="1" HorizontalAlignment="Left" Margin="244,47,0,0" Grid.Row="6" VerticalAlignment="Top" Width="75" Click="Button_Click_4"/>
     </Grid>
 </Window>
